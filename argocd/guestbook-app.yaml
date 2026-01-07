@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Steven-Halaghia-00/guestbook-gitops
+    repoURL: https://github.com/steven-halaghia-00/guestbook-gitops
     targetRevision: HEAD
     path: apps/guestbook/base
   destination:
