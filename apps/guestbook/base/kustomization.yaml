@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/Steven-Halaghia-00/guestbook-gitops
-    newTag: main-63115db
+    newTag: main-294e816
